@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-color: #e8eaf6;
+}
+
+.input-field label{
+	color: white;
+	font-size: 20px;
+}
+
+label{
+	color: white;
+	font-size: 25px;
+}
+
+button{
+	font-size: 10px;
+}
+
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+}
